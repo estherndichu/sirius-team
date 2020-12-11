@@ -27,6 +27,10 @@ h1, h2, h3, h4, h5, h6, p {
     font-family: "Poppins", sans-serif;
 }
 
+.navbar-brand {
+    font-family: "Poppins", sans-serif;
+}
+
 .view {
 	background-image: url('../image/image1.jpg');
 	background-size: cover;
@@ -47,4 +51,15 @@ h1, h2, h3, h4, h5, h6, p {
 .jumbotron {
     height: 300px;
     width: 100%;
+}
+
+.img {
+    height: 500px;
+    width: 500px;
+}
+
+.img img {
+    border-radius: 50%;
+    height: 500px;
+    width: 500px;
 }
