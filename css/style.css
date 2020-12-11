@@ -1,0 +1,50 @@
+@font-face {
+    font-family: "Poppins", sans-serif;
+    src: url("../Poppins/Poppins-Regular.ttf");
+    src: url("../Poppins/Poppins-Regular.ttf") format("ttf");
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    font-family: "Poppins", sans-serif;
+}
+
+/* body{
+    font-family: "Poppins", sans-serif;
+    background-image: url('../image/image1.jpg');
+    background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+} */
+
+.navbar {
+    background-color: #4a4a4a;
+    font-family: "Poppins", sans-serif;
+}
+
+.view {
+	background-image: url('../image/image1.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 300px;
+    color: #fff;
+    font-family: "Poppins", sans-serif;
+}
+
+
+/* .bg {
+    background-image: url(../image/image1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+} */
+
+.jumbotron {
+    height: 300px;
+    width: 100%;
+}
