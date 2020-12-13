@@ -1,0 +1,55 @@
+
+.column {
+    float: left;
+    width: 25%;
+    padding: 5px;
+  }
+  body{
+      background-color: rgba(0, 0, 0, 0.658);
+  }
+  
+
+  @media screen and (max-width: 650px) {
+    .column {
+      width: 100%;
+      display: inline;
+    }
+  }
+  
+  
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  }
+  
+  
+  .container {
+    padding: 0 16px;
+  }
+  
+
+   .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
+  
+  
+  
+  img{
+      width: 100%;
+      height: auto;
+      border-radius: 50%;
+  }
+  h1{
+      text-align: center;
+    color: rgb(255, 255, 255);
+  }
+  h2{
+      text-align: center;
+      color: rgb(255, 255, 255);
+  }
+  p{
+      text-align: center;
+      color: rgb(255, 255, 255);
+  }
