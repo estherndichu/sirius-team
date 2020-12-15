@@ -25,41 +25,92 @@ h1, h2, h3, h4, h5, h6, p {
 .navbar {
     background-color: #4a4a4a;
     font-family: "Poppins", sans-serif;
+    height: 75px;
+}
+
+.navbar a {
+    font-size: 25px;
 }
 
 .navbar-brand {
     font-family: "Poppins", sans-serif;
 }
 
-.view {
-	background-image: url('../image/image1.jpg');
-	background-size: cover;
-	background-repeat: no-repeat;
-    background-attachment: fixed;
-    height: 300px;
+.bg-cover {
+    background-size: cover !important;
+}
+
+
+/* ==============CARD AREA=========== */
+
+.team-boxed {
+    font-size: 16px;
+    margin: 0 auto;
+}
+
+.into {
+    font-size:16px;
+    max-width:500px;
+    margin:0 auto;
+}
+
+.intro p {
+    font-size: 16px;
+    margin-bottom: 0 auto;
+}
+
+.people {
+    padding: 50px 0;
+}
+
+.box {
     color: #fff;
-    font-family: "Poppins", sans-serif;
+    text-align:center;
+    padding:30px;
+    background-color:#dc3e45;
+    margin-bottom:30px;
+    text-align: center;
 }
 
-
-/* .bg {
-    background-image: url(../image/image1.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-} */
-
-.jumbotron {
-    height: 300px;
-    width: 100%;
+.box1 {
+    color: #fff;
+    text-align:center;
+    padding:30px;
+    background-color:#000;
+    margin-bottom:30px;
+    text-align: center;
 }
 
-.img {
-    height: 500px;
-    width: 500px;
+.name {
+    font-weight:bold;
+    margin-top:28px;
+    margin-bottom:8px;
+    color:inherit;
 }
 
-.img img {
-    border-radius: 50%;
-    height: 500px;
-    width: 500px;
+.title {
+    text-transform:uppercase;
+    font-weight:bold;
+    color:#ffebf0;
+    letter-spacing:2px;
+    font-size:13px;
 }
+
+.description {
+    font-size:15px;
+    margin-top:15px;
+    margin-bottom:20px; 
+}
+
+.icon a {
+    color:inherit;
+    margin:0 10px;
+    display:inline-block;
+    opacity:0.7;
+    font-size: 30px;
+}
+
+.icon a:hover {
+    opacity:1;
+}
+
