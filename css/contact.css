@@ -5,9 +5,16 @@
     background-size: cover; */
     height:30vh;
 } 
-.cont-head h1 p{
-    font-size: large;
-    font-style: italic;
+.cont-head h1{
+   font-weight: 500;
+    font-style:normal;
+    font-family: Arial;
+}
+.cont-head{
+    font-size:22px;
+    font-style : normal;
+    font-family : arial;
+
 }
 
 
