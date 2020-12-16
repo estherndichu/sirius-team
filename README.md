@@ -1,5 +1,5 @@
 # _A blog website created by the Sirius Team of 2020_
-![Blog Website](https://github.com/Cliffordmorara47/Sirius-Team/blob/main/project-resources/page-screenshots/landing.png")
+![Blog Website](https://github.com/Cliffordmorara47/Sirius-Team/raw/main/project-resources/page-screenshots/landing.png "Blog website")
 ***
 # _visit website_
 [Sirias]()
