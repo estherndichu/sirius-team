@@ -1,0 +1,13 @@
+.cont-head{
+    background-image: url("../images/image1.jpg");
+    background-repeat: no-repeat;
+    /* background-position: center;
+    background-size: cover; */
+    height:30vh;
+} 
+.cont-head h1 p{
+    font-size: large;
+    font-style: italic;
+}
+
+
