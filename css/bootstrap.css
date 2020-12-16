@@ -163,12 +163,20 @@ a:hover {
   text-decoration: underline;
 }
 
+<<<<<<< HEAD
 a:not([href]):not([class]) {
+=======
+a:not([href]) {
+>>>>>>> origin/jeffdev
   color: inherit;
   text-decoration: none;
 }
 
+<<<<<<< HEAD
 a:not([href]):not([class]):hover {
+=======
+a:not([href]):hover {
+>>>>>>> origin/jeffdev
   color: inherit;
   text-decoration: none;
 }
@@ -185,7 +193,10 @@ pre {
   margin-top: 0;
   margin-bottom: 1rem;
   overflow: auto;
+<<<<<<< HEAD
   -ms-overflow-style: scrollbar;
+=======
+>>>>>>> origin/jeffdev
 }
 
 figure {
@@ -216,7 +227,10 @@ caption {
 
 th {
   text-align: inherit;
+<<<<<<< HEAD
   text-align: -webkit-match-parent;
+=======
+>>>>>>> origin/jeffdev
 }
 
 label {
@@ -254,10 +268,13 @@ select {
   text-transform: none;
 }
 
+<<<<<<< HEAD
 [role="button"] {
   cursor: pointer;
 }
 
+=======
+>>>>>>> origin/jeffdev
 select {
   word-wrap: normal;
 }
@@ -2072,6 +2089,7 @@ pre code {
   opacity: 1;
 }
 
+<<<<<<< HEAD
 input[type="date"].form-control,
 input[type="time"].form-control,
 input[type="datetime-local"].form-control,
@@ -2081,6 +2099,8 @@ input[type="month"].form-control {
   appearance: none;
 }
 
+=======
+>>>>>>> origin/jeffdev
 select.form-control:focus::-ms-value {
   color: #495057;
   background-color: #fff;
@@ -2329,7 +2349,10 @@ textarea.form-control {
 .invalid-tooltip {
   position: absolute;
   top: 100%;
+<<<<<<< HEAD
   left: 0;
+=======
+>>>>>>> origin/jeffdev
   z-index: 5;
   display: none;
   max-width: 100%;
@@ -2500,6 +2523,10 @@ textarea.form-control {
   color: #212529;
   text-align: center;
   vertical-align: middle;
+<<<<<<< HEAD
+=======
+  cursor: pointer;
+>>>>>>> origin/jeffdev
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
@@ -2533,10 +2560,13 @@ textarea.form-control {
   opacity: 0.65;
 }
 
+<<<<<<< HEAD
 .btn:not(:disabled):not(.disabled) {
   cursor: pointer;
 }
 
+=======
+>>>>>>> origin/jeffdev
 a.btn.disabled,
 fieldset:disabled a.btn {
   pointer-events: none;
@@ -3107,6 +3137,10 @@ fieldset:disabled a.btn {
 
 .btn-link:focus, .btn-link.focus {
   text-decoration: underline;
+<<<<<<< HEAD
+=======
+  box-shadow: none;
+>>>>>>> origin/jeffdev
 }
 
 .btn-link:disabled, .btn-link.disabled {
@@ -3565,9 +3599,14 @@ input[type="button"].btn-block {
 .input-group > .custom-select,
 .input-group > .custom-file {
   position: relative;
+<<<<<<< HEAD
   -ms-flex: 1 1 auto;
   flex: 1 1 auto;
   width: 1%;
+=======
+  -ms-flex: 1 1 0%;
+  flex: 1 1 0%;
+>>>>>>> origin/jeffdev
   min-width: 0;
   margin-bottom: 0;
 }
@@ -3747,12 +3786,18 @@ input[type="button"].btn-block {
 
 .custom-control {
   position: relative;
+<<<<<<< HEAD
   z-index: 1;
   display: block;
   min-height: 1.5rem;
   padding-left: 1.5rem;
   -webkit-print-color-adjust: exact;
   color-adjust: exact;
+=======
+  display: block;
+  min-height: 1.5rem;
+  padding-left: 1.5rem;
+>>>>>>> origin/jeffdev
 }
 
 .custom-control-inline {
@@ -4286,14 +4331,20 @@ input[type="button"].btn-block {
   background-color: #007bff;
 }
 
+<<<<<<< HEAD
 .nav-fill > .nav-link,
+=======
+>>>>>>> origin/jeffdev
 .nav-fill .nav-item {
   -ms-flex: 1 1 auto;
   flex: 1 1 auto;
   text-align: center;
 }
 
+<<<<<<< HEAD
 .nav-justified > .nav-link,
+=======
+>>>>>>> origin/jeffdev
 .nav-justified .nav-item {
   -ms-flex-preferred-size: 0;
   flex-basis: 0;
@@ -4734,6 +4785,7 @@ input[type="button"].btn-block {
   margin-left: 0;
 }
 
+<<<<<<< HEAD
 .card > .list-group {
   border-top: inherit;
   border-bottom: inherit;
@@ -4754,6 +4806,16 @@ input[type="button"].btn-block {
 .card > .card-header + .list-group,
 .card > .list-group + .card-footer {
   border-top: 0;
+=======
+.card > .list-group:first-child .list-group-item:first-child {
+  border-top-left-radius: 0.25rem;
+  border-top-right-radius: 0.25rem;
+}
+
+.card > .list-group:last-child .list-group-item:last-child {
+  border-bottom-right-radius: 0.25rem;
+  border-bottom-left-radius: 0.25rem;
+>>>>>>> origin/jeffdev
 }
 
 .card-body {
@@ -4795,6 +4857,13 @@ input[type="button"].btn-block {
   border-radius: calc(0.25rem - 1px) calc(0.25rem - 1px) 0 0;
 }
 
+<<<<<<< HEAD
+=======
+.card-header + .list-group .list-group-item:first-child {
+  border-top: 0;
+}
+
+>>>>>>> origin/jeffdev
 .card-footer {
   padding: 0.75rem 1.25rem;
   background-color: rgba(0, 0, 0, 0.03);
@@ -4936,10 +5005,13 @@ input[type="button"].btn-block {
   }
 }
 
+<<<<<<< HEAD
 .accordion {
   overflow-anchor: none;
 }
 
+=======
+>>>>>>> origin/jeffdev
 .accordion > .card {
   overflow: hidden;
 }
@@ -5292,7 +5364,10 @@ a.badge-dark:focus, a.badge-dark.focus {
   position: absolute;
   top: 0;
   right: 0;
+<<<<<<< HEAD
   z-index: 2;
+=======
+>>>>>>> origin/jeffdev
   padding: 0.75rem 1.25rem;
   color: inherit;
 }
@@ -5432,7 +5507,10 @@ a.badge-dark:focus, a.badge-dark.focus {
   display: flex;
   height: 1rem;
   overflow: hidden;
+<<<<<<< HEAD
   line-height: 0;
+=======
+>>>>>>> origin/jeffdev
   font-size: 0.75rem;
   background-color: #e9ecef;
   border-radius: 0.25rem;
@@ -5525,6 +5603,7 @@ a.badge-dark:focus, a.badge-dark.focus {
 }
 
 .list-group-item:first-child {
+<<<<<<< HEAD
   border-top-left-radius: inherit;
   border-top-right-radius: inherit;
 }
@@ -5532,6 +5611,15 @@ a.badge-dark:focus, a.badge-dark.focus {
 .list-group-item:last-child {
   border-bottom-right-radius: inherit;
   border-bottom-left-radius: inherit;
+=======
+  border-top-left-radius: 0.25rem;
+  border-top-right-radius: 0.25rem;
+}
+
+.list-group-item:last-child {
+  border-bottom-right-radius: 0.25rem;
+  border-bottom-left-radius: 0.25rem;
+>>>>>>> origin/jeffdev
 }
 
 .list-group-item.disabled, .list-group-item:disabled {
@@ -5561,21 +5649,37 @@ a.badge-dark:focus, a.badge-dark.focus {
   flex-direction: row;
 }
 
+<<<<<<< HEAD
 .list-group-horizontal > .list-group-item:first-child {
+=======
+.list-group-horizontal .list-group-item:first-child {
+>>>>>>> origin/jeffdev
   border-bottom-left-radius: 0.25rem;
   border-top-right-radius: 0;
 }
 
+<<<<<<< HEAD
 .list-group-horizontal > .list-group-item:last-child {
+=======
+.list-group-horizontal .list-group-item:last-child {
+>>>>>>> origin/jeffdev
   border-top-right-radius: 0.25rem;
   border-bottom-left-radius: 0;
 }
 
+<<<<<<< HEAD
 .list-group-horizontal > .list-group-item.active {
   margin-top: 0;
 }
 
 .list-group-horizontal > .list-group-item + .list-group-item {
+=======
+.list-group-horizontal .list-group-item.active {
+  margin-top: 0;
+}
+
+.list-group-horizontal .list-group-item + .list-group-item {
+>>>>>>> origin/jeffdev
   border-top-width: 1px;
   border-left-width: 0;
 }
@@ -5642,6 +5746,7 @@ a.badge-dark:focus, a.badge-dark.focus {
     -ms-flex-direction: row;
     flex-direction: row;
   }
+<<<<<<< HEAD
   .list-group-horizontal-lg > .list-group-item:first-child {
     border-bottom-left-radius: 0.25rem;
     border-top-right-radius: 0;
@@ -5658,6 +5763,24 @@ a.badge-dark:focus, a.badge-dark.focus {
     border-left-width: 0;
   }
   .list-group-horizontal-lg > .list-group-item + .list-group-item.active {
+=======
+  .list-group-horizontal-lg .list-group-item:first-child {
+    border-bottom-left-radius: 0.25rem;
+    border-top-right-radius: 0;
+  }
+  .list-group-horizontal-lg .list-group-item:last-child {
+    border-top-right-radius: 0.25rem;
+    border-bottom-left-radius: 0;
+  }
+  .list-group-horizontal-lg .list-group-item.active {
+    margin-top: 0;
+  }
+  .list-group-horizontal-lg .list-group-item + .list-group-item {
+    border-top-width: 1px;
+    border-left-width: 0;
+  }
+  .list-group-horizontal-lg .list-group-item + .list-group-item.active {
+>>>>>>> origin/jeffdev
     margin-left: -1px;
     border-left-width: 1px;
   }
@@ -5668,6 +5791,7 @@ a.badge-dark:focus, a.badge-dark.focus {
     -ms-flex-direction: row;
     flex-direction: row;
   }
+<<<<<<< HEAD
   .list-group-horizontal-xl > .list-group-item:first-child {
     border-bottom-left-radius: 0.25rem;
     border-top-right-radius: 0;
@@ -5684,11 +5808,30 @@ a.badge-dark:focus, a.badge-dark.focus {
     border-left-width: 0;
   }
   .list-group-horizontal-xl > .list-group-item + .list-group-item.active {
+=======
+  .list-group-horizontal-xl .list-group-item:first-child {
+    border-bottom-left-radius: 0.25rem;
+    border-top-right-radius: 0;
+  }
+  .list-group-horizontal-xl .list-group-item:last-child {
+    border-top-right-radius: 0.25rem;
+    border-bottom-left-radius: 0;
+  }
+  .list-group-horizontal-xl .list-group-item.active {
+    margin-top: 0;
+  }
+  .list-group-horizontal-xl .list-group-item + .list-group-item {
+    border-top-width: 1px;
+    border-left-width: 0;
+  }
+  .list-group-horizontal-xl .list-group-item + .list-group-item.active {
+>>>>>>> origin/jeffdev
     margin-left: -1px;
     border-left-width: 1px;
   }
 }
 
+<<<<<<< HEAD
 .list-group-flush {
   border-radius: 0;
 }
@@ -5698,6 +5841,19 @@ a.badge-dark:focus, a.badge-dark.focus {
 }
 
 .list-group-flush > .list-group-item:last-child {
+=======
+.list-group-flush .list-group-item {
+  border-right-width: 0;
+  border-left-width: 0;
+  border-radius: 0;
+}
+
+.list-group-flush .list-group-item:first-child {
+  border-top-width: 0;
+}
+
+.list-group-flush:last-child .list-group-item:last-child {
+>>>>>>> origin/jeffdev
   border-bottom-width: 0;
 }
 
@@ -5852,6 +6008,12 @@ button.close {
   padding: 0;
   background-color: transparent;
   border: 0;
+<<<<<<< HEAD
+=======
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+>>>>>>> origin/jeffdev
 }
 
 a.close.disabled {
@@ -5859,14 +6021,24 @@ a.close.disabled {
 }
 
 .toast {
+<<<<<<< HEAD
   -ms-flex-preferred-size: 350px;
   flex-basis: 350px;
   max-width: 350px;
+=======
+  max-width: 350px;
+  overflow: hidden;
+>>>>>>> origin/jeffdev
   font-size: 0.875rem;
   background-color: rgba(255, 255, 255, 0.85);
   background-clip: padding-box;
   border: 1px solid rgba(0, 0, 0, 0.1);
   box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, 0.1);
+<<<<<<< HEAD
+=======
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+>>>>>>> origin/jeffdev
   opacity: 0;
   border-radius: 0.25rem;
 }
@@ -5898,8 +6070,11 @@ a.close.disabled {
   background-color: rgba(255, 255, 255, 0.85);
   background-clip: padding-box;
   border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+<<<<<<< HEAD
   border-top-left-radius: calc(0.25rem - 1px);
   border-top-right-radius: calc(0.25rem - 1px);
+=======
+>>>>>>> origin/jeffdev
 }
 
 .toast-body {
@@ -5990,9 +6165,12 @@ a.close.disabled {
 .modal-dialog-centered::before {
   display: block;
   height: calc(100vh - 1rem);
+<<<<<<< HEAD
   height: -webkit-min-content;
   height: -moz-min-content;
   height: min-content;
+=======
+>>>>>>> origin/jeffdev
   content: "";
 }
 
@@ -6118,9 +6296,12 @@ a.close.disabled {
   }
   .modal-dialog-centered::before {
     height: calc(100vh - 3.5rem);
+<<<<<<< HEAD
     height: -webkit-min-content;
     height: -moz-min-content;
     height: min-content;
+=======
+>>>>>>> origin/jeffdev
   }
   .modal-sm {
     max-width: 300px;
@@ -6652,8 +6833,11 @@ a.close.disabled {
   }
   50% {
     opacity: 1;
+<<<<<<< HEAD
     -webkit-transform: none;
     transform: none;
+=======
+>>>>>>> origin/jeffdev
   }
 }
 
@@ -6664,8 +6848,11 @@ a.close.disabled {
   }
   50% {
     opacity: 1;
+<<<<<<< HEAD
     -webkit-transform: none;
     transform: none;
+=======
+>>>>>>> origin/jeffdev
   }
 }
 
@@ -7951,6 +8138,7 @@ button.bg-dark:focus {
   }
 }
 
+<<<<<<< HEAD
 .user-select-all {
   -webkit-user-select: all !important;
   -moz-user-select: all !important;
@@ -7972,6 +8160,8 @@ button.bg-dark:focus {
   user-select: none !important;
 }
 
+=======
+>>>>>>> origin/jeffdev
 .overflow-auto {
   overflow: auto !important;
 }
@@ -8127,6 +8317,21 @@ button.bg-dark:focus {
   height: 100vh !important;
 }
 
+<<<<<<< HEAD
+=======
+.stretched-link::after {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1;
+  pointer-events: auto;
+  content: "";
+  background-color: rgba(0, 0, 0, 0);
+}
+
+>>>>>>> origin/jeffdev
 .m-0 {
   margin: 0 !important;
 }
@@ -9939,6 +10144,7 @@ button.bg-dark:focus {
   }
 }
 
+<<<<<<< HEAD
 .stretched-link::after {
   position: absolute;
   top: 0;
@@ -9951,6 +10157,8 @@ button.bg-dark:focus {
   background-color: rgba(0, 0, 0, 0);
 }
 
+=======
+>>>>>>> origin/jeffdev
 .text-monospace {
   font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !important;
 }
@@ -10167,7 +10375,11 @@ a.text-dark:hover, a.text-dark:focus {
 
 .text-break {
   word-break: break-word !important;
+<<<<<<< HEAD
   word-wrap: break-word !important;
+=======
+  overflow-wrap: break-word !important;
+>>>>>>> origin/jeffdev
 }
 
 .text-reset {
@@ -10260,4 +10472,8 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6;
   }
 }
+<<<<<<< HEAD
 /*# sourceMappingURL=bootstrap.css.map */
+=======
+/*# sourceMappingURL=bootstrap.css.map */
+>>>>>>> origin/jeffdev

@@ -1,0 +1,130 @@
+@font-face {
+    font-family: "Poppins", sans-serif;
+    src: url("../Poppins/Poppins-Regular.ttf");
+    src: url("../Poppins/Poppins-Regular.ttf") format("ttf");
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    font-family: "Poppins", sans-serif;
+}
+
+/* body{
+    font-family: "Poppins", sans-serif;
+    background-image: url('../image/image1.jpg');
+    background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+} */
+
+.navbar {
+    background-color: #4a4a4a;
+    font-family: "Poppins", sans-serif;
+    height: 75px;
+}
+
+.navbar a {
+    font-size: 25px;
+}
+
+.navbar-brand {
+    font-family: "Poppins", sans-serif;
+}
+
+.bg-cover {
+    background-size: cover !important;
+}
+
+
+/* ==============CARD AREA=========== */
+
+.team-boxed {
+    font-size: 16px;
+    margin: 0 auto;
+}
+
+/* .intro {
+    display: inline;
+} */
+
+.siri h2 {
+    margin-left: 40px;
+}
+
+
+.siri p {
+    font-size: 16px;
+    margin-bottom: 0 auto;
+    text-align: left;
+    width: 800px;
+    margin-left: 40px;
+}
+
+.vec img {
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    float: right;
+    margin-right: 80px;
+}
+
+
+
+.box {
+    color: #fff;
+    text-align:center;
+    padding:30px;
+    background-color:#dc3e45;
+    margin-bottom:30px;
+    text-align: center;
+    width: 400px;
+}
+
+.box1 {
+    color: #fff;
+    text-align:center;
+    padding:30px;
+    background-color:#000;
+    margin-bottom:30px;
+    text-align: center;
+    width: 400px;
+}
+
+.name {
+    font-weight:bold;
+    margin-top:28px;
+    margin-bottom:8px;
+    color:inherit;
+}
+
+.title {
+    text-transform:uppercase;
+    font-weight:bold;
+    color:#ffebf0;
+    letter-spacing:2px;
+    font-size:13px;
+}
+
+.description {
+    font-size:15px;
+    margin-top:15px;
+    margin-bottom:20px; 
+}
+
+.icon a {
+    color:inherit;
+    margin:0 10px;
+    display:inline-block;
+    opacity:0.7;
+    font-size: 30px;
+}
+
+.icon a:hover {
+    opacity:1;
+}
+
