@@ -1,5 +1,5 @@
-# _Image of the website_
-![Blog Website](file:///home/moring/Desktop/my-projects/Sirius-Team/project-resources/page-screenshots/landing.png "Blog Website")
+# _A blog website created by the Sirius Team of 2020_
+![Blog Website](https://github.com/Cliffordmorara47/Sirius-Team/raw/main/project-resources/page-screenshots/landing.png "Blog Website")
 ***
 # _visit website_
 [Sirias]()
