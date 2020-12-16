@@ -1,0 +1,27 @@
+html{
+    margin: 0;
+}
+.jumbotron{
+    background-image:url("../pictures/lights.jpg");
+    background-position: center;
+    background-size: cover;;
+    border:2x solid black;
+    color: white;
+}
+.jumbotron p{
+    text-align:center;
+}
+h2{
+    text-align:center;
+
+}
+
+#first{
+    background-color:grey;
+
+}
+    
+.fa-play{
+    color: white;
+    
+} 
