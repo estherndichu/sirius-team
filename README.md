@@ -18,3 +18,23 @@ _On our second week of learning, we decided to collaborate and come up with a bl
 ***
 # _visit website_
 [Sirias]()
+***
+# _Technologies Used_
+ >_The following technologies were used to come up with the website._
+
+ 1. [Javascript](https://en.wikipedia.org/wiki/JavaScript "JS")
+
+ 2. [HTML5](https://en.wikipedia.org/wiki/HTML5 "Hypertext")
+
+ 3. [CSS](https://en.wikipedia.org/wiki/CSS "stylesheet")
+
+ 4. [Bootstrap](https://getbootstrap.com/ "bootstrap")
+ 5. [Markdown](https://en.wikipedia.org/wiki/Markdown "README.md")
+ ***
+# _BDD_
+***
+# _Installation Process_
+***
+# _Contacts_
+***
+# _Copyright and Licence_
