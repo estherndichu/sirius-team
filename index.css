@@ -1,0 +1,9 @@
+#copy{
+    background-color:rgba(0,0,0,1); 
+    color:white;
+    margin:0px 15px 0px 15px;
+    font-size: 20px;
+}
+#card{
+    border-radius: 0;
+}
