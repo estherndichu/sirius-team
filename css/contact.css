@@ -1,0 +1,20 @@
+.cont-head{
+    background-image: url("../images/image1.jpg");
+    background-repeat: no-repeat;
+    /* background-position: center;
+    background-size: cover; */
+    height:30vh;
+} 
+.cont-head h1{
+   font-weight: 500;
+    font-style:normal;
+    font-family: Arial;
+}
+.cont-head{
+    font-size:22px;
+    font-style : normal;
+    font-family : arial;
+
+}
+
+
