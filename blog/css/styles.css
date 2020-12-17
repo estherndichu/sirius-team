@@ -1,4 +1,5 @@
 .jumbotron{
+    top: 100px;
     background-image: url("../img/image1.jpg");
     color: aliceblue;
     height: 50%;
