@@ -1,5 +1,5 @@
 # _A blog website created by the Sirius Team of 2020_
-![Blog Website](https://github.com/Cliffordmorara47/Sirius-Team/raw/main/project-resources/page-screenshots/landing.png "Blog Website")
+![Blog Website](https://github.com/Cliffordmorara47/Sirius-Team/raw/main/project-resources/page-screenshots/landing.png "Blog website")
 ***
 # _visit website_
 [Sirias]()
@@ -34,8 +34,18 @@ _On our second week of learning, we decided to collaborate and come up with a bl
 # _BDD_
 ***
 # _Installation Process_
+**To install this application to your computer;**
+
+- Open the computer's terminal.
+- Copy and paste the following command.  "git clone https://github.com/estherndichu/sirius-team.git "
+- cd into the sirius-team directory and open it.
+***
+
 ***
 # _Contacts_
+If you want to help in buliding the project further, you can reach us through the following email;
+estherndichu345@gmail.com
+or you can call us on +254712546789; 023435678, +254714356544
 ***
 # _Copyright and Licence_
 MIT License

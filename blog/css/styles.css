@@ -1,0 +1,87 @@
+.jumbotron{
+    background-image: url("../img/image1.jpg");
+    color: aliceblue;
+    height: 50%;
+}                   
+.carousel{
+   position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    padding-top: 20px;
+}
+.card{
+    top: 0px;
+    float: left;
+    padding: 0px;
+    width: 30%;
+    align-items: center;
+    padding-left: 50px;
+    padding-bottom: 50px;
+}
+.text{
+    font-size: 12px;
+}
+.img{
+    padding: 0px;
+    padding-left: 0px;
+}
+.card-2{
+    position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: rgb(255, 255, 255);
+  background-clip: border-box;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 0.25rem;
+  top: 0px;
+  float: left;
+  padding: 0px;
+  width: 30%;
+  align-items: center;
+  padding-left: 30px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.card-3{
+    position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: rgb(236, 15, 82);
+  background-clip: border-box;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 0.25rem;
+  top: 0px;
+  float: left;
+  padding: 0px;
+  width: 30%;
+  align-items: center;
+  padding-left: 30px;
+  padding-top: 50px;
+  color: aliceblue;
+  padding-bottom: 50px;
+}
+.modal-footer{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: rgb(5, 5, 5);
+    top: 0px;
+    width: 100%;
+    align-items: center;
+    padding-left: 30px;
+    padding-top: 20px;
+    color: aliceblue;
+    height: 0.5%;
+}
