@@ -2,7 +2,7 @@
 ![Blog Website](https://github.com/Cliffordmorara47/Sirius-Team/raw/main/project-resources/page-screenshots/landing.png "Blog website")
 ***
 # _visit website_
-[Sirias]()
+[Sirius]()
 ***
 # *sirius-team*
 _On our second week of learning, we decided to collaborate and come up with a blog website. Collaboraters included the following;_ 
@@ -13,7 +13,7 @@ _On our second week of learning, we decided to collaborate and come up with a bl
 1. Jackson Ikonya.
 1. Clifford Morara.
 1. Vincent Juma.
-1. Ngatia Jeffers.
+1. Ngatia Jefferson.
 1. Daisy Chelang'at.
 1. Brian Mbugua.
 1. Ngenoh Zephaniah.

@@ -8,7 +8,7 @@ html{
     border:2x solid black;
     color: white;
 }
-.jumbotron p{
+#ready {
     text-align:center;
 }
 h2{
@@ -19,9 +19,14 @@ h2{
 #first{
     background-color:grey;
 
-}
-    
+}    
 .fa-play{
     color: white;
     
 } 
+#copy{
+    background-color:rgba(0,0,0,1); 
+    color:white;
+    margin:0px 15px 0px 15px;
+    font-size: 20px;
+}
