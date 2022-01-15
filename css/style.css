@@ -1,33 +1,3 @@
-@font-face {
-    font-family: "Poppins", sans-serif;
-    src: url("../Poppins/Poppins-Regular.ttf");
-    src: url("../Poppins/Poppins-Regular.ttf") format("ttf");
-}
-
-* {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-}
-
-h1, h2, h3, h4, h5, h6, p {
-    font-family: "Poppins", sans-serif;
-}
-
-.navbar {
-    background-color: #4a4a4a;
-    font-family: "Poppins", sans-serif;
-    height: 75px;
-}
-
-.navbar a {
-    font-size: 25px;
-}
-
-.navbar-brand {
-    font-family: "Poppins", sans-serif;
-}
-
 .bg-cover {
     background-size: cover !important;
 }
